@@ -1,0 +1,52 @@
+﻿﻿@using EShopApplication.Domain.DTO
+@model ShoppingCartDTO
+
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+
+<div class="container">
+    <a class="btn btn-success" asp-action="Order">Order</a>
+    <div class="row" style="margin-top:20px;">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Product Name</th>
+                    <th scope="col">Quantity</th>
+                    <th scope="col">Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                @for (int i = 0; i < Model.Products.Count; i++)
+                {
+                    var prod = Model.Products[i];
+
+                    <tr>
+                        <td>@(i + 1)</td>
+                        <td>@prod.Product.ProductName</td>
+                        <td>@prod.Quantity</td>
+                        <td>@prod.Product.ProductPrice</td>
+                        <td>
+                            <a asp-controller="ShoppingCarts" asp-action="DeleteFromCart" asp-route-id="@prod.ProductId" class="btn btn-danger">Delete from cart</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+            <tfoot>
+                <tr>
+                    <th scope="col">Total Price:</th>
+                    <th scope="col"></th>
+                    <th scope="col"></th>
+                    <th scope="col">@Model.TotalPrice denars</th>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+
+</div>

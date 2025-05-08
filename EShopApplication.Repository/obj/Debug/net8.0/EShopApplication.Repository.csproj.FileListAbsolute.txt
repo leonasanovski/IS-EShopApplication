@@ -1,0 +1,17 @@
+D:\Leon\ФИНКИ\ШЕСТИ СЕМЕСТАР\integrated systems\EShopApplication\EShopApplication.Repository\bin\Debug\net8.0\EShopApplication.Repository.deps.json
+D:\Leon\ФИНКИ\ШЕСТИ СЕМЕСТАР\integrated systems\EShopApplication\EShopApplication.Repository\bin\Debug\net8.0\EShopApplication.Repository.runtimeconfig.json
+D:\Leon\ФИНКИ\ШЕСТИ СЕМЕСТАР\integrated systems\EShopApplication\EShopApplication.Repository\bin\Debug\net8.0\EShopApplication.Repository.dll
+D:\Leon\ФИНКИ\ШЕСТИ СЕМЕСТАР\integrated systems\EShopApplication\EShopApplication.Repository\bin\Debug\net8.0\EShopApplication.Repository.pdb
+D:\Leon\ФИНКИ\ШЕСТИ СЕМЕСТАР\integrated systems\EShopApplication\EShopApplication.Repository\bin\Debug\net8.0\EShopApplication.Domain.dll
+D:\Leon\ФИНКИ\ШЕСТИ СЕМЕСТАР\integrated systems\EShopApplication\EShopApplication.Repository\bin\Debug\net8.0\EShopApplication.Domain.pdb
+D:\Leon\ФИНКИ\ШЕСТИ СЕМЕСТАР\integrated systems\EShopApplication\EShopApplication.Repository\obj\Debug\net8.0\EShopApplication.Repository.csproj.AssemblyReference.cache
+D:\Leon\ФИНКИ\ШЕСТИ СЕМЕСТАР\integrated systems\EShopApplication\EShopApplication.Repository\obj\Debug\net8.0\EShopApplication.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leon\ФИНКИ\ШЕСТИ СЕМЕСТАР\integrated systems\EShopApplication\EShopApplication.Repository\obj\Debug\net8.0\EShopApplication.Repository.AssemblyInfoInputs.cache
+D:\Leon\ФИНКИ\ШЕСТИ СЕМЕСТАР\integrated systems\EShopApplication\EShopApplication.Repository\obj\Debug\net8.0\EShopApplication.Repository.AssemblyInfo.cs
+D:\Leon\ФИНКИ\ШЕСТИ СЕМЕСТАР\integrated systems\EShopApplication\EShopApplication.Repository\obj\Debug\net8.0\EShopApplication.Repository.csproj.CoreCompileInputs.cache
+D:\Leon\ФИНКИ\ШЕСТИ СЕМЕСТАР\integrated systems\EShopApplication\EShopApplication.Repository\obj\Debug\net8.0\EShopApp.6A69C622.Up2Date
+D:\Leon\ФИНКИ\ШЕСТИ СЕМЕСТАР\integrated systems\EShopApplication\EShopApplication.Repository\obj\Debug\net8.0\EShopApplication.Repository.dll
+D:\Leon\ФИНКИ\ШЕСТИ СЕМЕСТАР\integrated systems\EShopApplication\EShopApplication.Repository\obj\Debug\net8.0\refint\EShopApplication.Repository.dll
+D:\Leon\ФИНКИ\ШЕСТИ СЕМЕСТАР\integrated systems\EShopApplication\EShopApplication.Repository\obj\Debug\net8.0\EShopApplication.Repository.pdb
+D:\Leon\ФИНКИ\ШЕСТИ СЕМЕСТАР\integrated systems\EShopApplication\EShopApplication.Repository\obj\Debug\net8.0\EShopApplication.Repository.genruntimeconfig.cache
+D:\Leon\ФИНКИ\ШЕСТИ СЕМЕСТАР\integrated systems\EShopApplication\EShopApplication.Repository\obj\Debug\net8.0\ref\EShopApplication.Repository.dll

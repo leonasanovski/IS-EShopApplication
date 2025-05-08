@@ -1,0 +1,257 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Leon\\ФИНКИ\\ШЕСТИ СЕМЕСТАР\\integrated systems\\EShopApplication\\EShopApplication.Service\\EShopApplication.Service.csproj": {}
+  },
+  "projects": {
+    "D:\\Leon\\ФИНКИ\\ШЕСТИ СЕМЕСТАР\\integrated systems\\EShopApplication\\EShopApplication.Domain\\EShopApplication.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Leon\\ФИНКИ\\ШЕСТИ СЕМЕСТАР\\integrated systems\\EShopApplication\\EShopApplication.Domain\\EShopApplication.Domain.csproj",
+        "projectName": "EShopApplication.Domain",
+        "projectPath": "D:\\Leon\\ФИНКИ\\ШЕСТИ СЕМЕСТАР\\integrated systems\\EShopApplication\\EShopApplication.Domain\\EShopApplication.Domain.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Leon\\ФИНКИ\\ШЕСТИ СЕМЕСТАР\\integrated systems\\EShopApplication\\EShopApplication.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Leon\\ФИНКИ\\ШЕСТИ СЕМЕСТАР\\integrated systems\\EShopApplication\\EShopApplication.Repository\\EShopApplication.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Leon\\ФИНКИ\\ШЕСТИ СЕМЕСТАР\\integrated systems\\EShopApplication\\EShopApplication.Repository\\EShopApplication.Repository.csproj",
+        "projectName": "EShopApplication.Repository",
+        "projectPath": "D:\\Leon\\ФИНКИ\\ШЕСТИ СЕМЕСТАР\\integrated systems\\EShopApplication\\EShopApplication.Repository\\EShopApplication.Repository.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Leon\\ФИНКИ\\ШЕСТИ СЕМЕСТАР\\integrated systems\\EShopApplication\\EShopApplication.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Leon\\ФИНКИ\\ШЕСТИ СЕМЕСТАР\\integrated systems\\EShopApplication\\EShopApplication.Domain\\EShopApplication.Domain.csproj": {
+                "projectPath": "D:\\Leon\\ФИНКИ\\ШЕСТИ СЕМЕСТАР\\integrated systems\\EShopApplication\\EShopApplication.Domain\\EShopApplication.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Leon\\ФИНКИ\\ШЕСТИ СЕМЕСТАР\\integrated systems\\EShopApplication\\EShopApplication.Service\\EShopApplication.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Leon\\ФИНКИ\\ШЕСТИ СЕМЕСТАР\\integrated systems\\EShopApplication\\EShopApplication.Service\\EShopApplication.Service.csproj",
+        "projectName": "EShopApplication.Service",
+        "projectPath": "D:\\Leon\\ФИНКИ\\ШЕСТИ СЕМЕСТАР\\integrated systems\\EShopApplication\\EShopApplication.Service\\EShopApplication.Service.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Leon\\ФИНКИ\\ШЕСТИ СЕМЕСТАР\\integrated systems\\EShopApplication\\EShopApplication.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Leon\\ФИНКИ\\ШЕСТИ СЕМЕСТАР\\integrated systems\\EShopApplication\\EShopApplication.Domain\\EShopApplication.Domain.csproj": {
+                "projectPath": "D:\\Leon\\ФИНКИ\\ШЕСТИ СЕМЕСТАР\\integrated systems\\EShopApplication\\EShopApplication.Domain\\EShopApplication.Domain.csproj"
+              },
+              "D:\\Leon\\ФИНКИ\\ШЕСТИ СЕМЕСТАР\\integrated systems\\EShopApplication\\EShopApplication.Repository\\EShopApplication.Repository.csproj": {
+                "projectPath": "D:\\Leon\\ФИНКИ\\ШЕСТИ СЕМЕСТАР\\integrated systems\\EShopApplication\\EShopApplication.Repository\\EShopApplication.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.11.0, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[4.11.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

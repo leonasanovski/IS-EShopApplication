@@ -1,0 +1,12 @@
+D:\Leon\ФИНКИ\ШЕСТИ СЕМЕСТАР\integrated systems\EShopApplication\EShopApplication.Domain\bin\Debug\net8.0\EShopApplication.Domain.deps.json
+D:\Leon\ФИНКИ\ШЕСТИ СЕМЕСТАР\integrated systems\EShopApplication\EShopApplication.Domain\bin\Debug\net8.0\EShopApplication.Domain.dll
+D:\Leon\ФИНКИ\ШЕСТИ СЕМЕСТАР\integrated systems\EShopApplication\EShopApplication.Domain\bin\Debug\net8.0\EShopApplication.Domain.pdb
+D:\Leon\ФИНКИ\ШЕСТИ СЕМЕСТАР\integrated systems\EShopApplication\EShopApplication.Domain\obj\Debug\net8.0\EShopApplication.Domain.csproj.AssemblyReference.cache
+D:\Leon\ФИНКИ\ШЕСТИ СЕМЕСТАР\integrated systems\EShopApplication\EShopApplication.Domain\obj\Debug\net8.0\EShopApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leon\ФИНКИ\ШЕСТИ СЕМЕСТАР\integrated systems\EShopApplication\EShopApplication.Domain\obj\Debug\net8.0\EShopApplication.Domain.AssemblyInfoInputs.cache
+D:\Leon\ФИНКИ\ШЕСТИ СЕМЕСТАР\integrated systems\EShopApplication\EShopApplication.Domain\obj\Debug\net8.0\EShopApplication.Domain.AssemblyInfo.cs
+D:\Leon\ФИНКИ\ШЕСТИ СЕМЕСТАР\integrated systems\EShopApplication\EShopApplication.Domain\obj\Debug\net8.0\EShopApplication.Domain.csproj.CoreCompileInputs.cache
+D:\Leon\ФИНКИ\ШЕСТИ СЕМЕСТАР\integrated systems\EShopApplication\EShopApplication.Domain\obj\Debug\net8.0\EShopApplication.Domain.dll
+D:\Leon\ФИНКИ\ШЕСТИ СЕМЕСТАР\integrated systems\EShopApplication\EShopApplication.Domain\obj\Debug\net8.0\refint\EShopApplication.Domain.dll
+D:\Leon\ФИНКИ\ШЕСТИ СЕМЕСТАР\integrated systems\EShopApplication\EShopApplication.Domain\obj\Debug\net8.0\EShopApplication.Domain.pdb
+D:\Leon\ФИНКИ\ШЕСТИ СЕМЕСТАР\integrated systems\EShopApplication\EShopApplication.Domain\obj\Debug\net8.0\ref\EShopApplication.Domain.dll
